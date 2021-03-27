@@ -1,0 +1,1 @@
+// To briefly understand what setTimeout() could be used for
